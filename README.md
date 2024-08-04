@@ -23,3 +23,9 @@ Welcome to the Node.js CLI Plugin Tutorial! This tutorial will guide you through
 ![Refer to this image](readme_images/i1.png)
 ![Refer to this image](readme_images/i2.png)
 ![Refer to this image](readme_images/i3.png)
+
+## Acknowledgments
+
+I want to express my gratitude to: <br>
+**MIE**  My internship company for the opportunity and support throughout the project. <br>
+**Doug Horner** The CEO,for his invaluable guidance and mentorship.<br>
