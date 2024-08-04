@@ -20,6 +20,6 @@ Welcome to the Node.js CLI Plugin Tutorial! This tutorial will guide you through
 8. [Comments and Feedback](#comments-and-feedback)
 
 ## Preview
-![Refer to this image](readMe_images/i1.png)
-![Refer to this image](readMe_images/i2.png)
-![Refer to this image](readMe_images/i3.png)
+![Refer to this image](readme_images/i1.png)
+![Refer to this image](readme_images/i2.png)
+![Refer to this image](readme_images/i3.png)
